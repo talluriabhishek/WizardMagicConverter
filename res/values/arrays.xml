@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="audioformatlist">  
+        <item>@string/audioformat1</item>  
+        <item>@string/audioformat2</item>  
+        <item>@string/audioformat3</item>  
+        <item>@string/audioformat4</item>  
+    </string-array> 
+    <string-array name="videoformatlist">  
+        <item>@string/videoformat1</item>
+        <item>@string/videoformat2</item>  
+        <item>@string/videoformat3</item>
+        <item>@string/videoformat4</item>
+        <item>@string/videoformat5</item>
+        <item>@string/videoformat6</item>
+        <item>@string/videoformat7</item>  
+        <item>@string/videoformat8</item>
+    </string-array> 
+    <string-array name="Qualitylist">  
+        <item>@string/Quality1</item>  
+        <item>@string/Quality2</item>  
+        <item>@string/Quality3</item>  
+    </string-array> 
+    
+</resources>

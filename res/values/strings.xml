@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wizards Converter</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!--Other string resources also defined in this file… -->  
+    <string name="audioformat1">mp3</string>  
+    <string name="audioformat2">aac</string>  
+    <string name="audioformat3">wav</string>  
+    <string name="audioformat4">wma</string>
+    <string name="audioprompt">Select the Audio format</string>
+    
+    <string name="videoformat1">mp4</string>  
+    <string name="videoformat2">avi</string>  
+    <string name="videoformat3">mkv</string>  
+    <string name="videoformat4">flv</string>
+    <string name="videoformat5">mpg</string>
+    <string name="videoformat6">wmv</string>
+    <string name="videoformat7">mov</string>
+    <string name="videoformat8">rm</string>
+    <string name="videoprompt">Select the Video format</string>
+    
+    <string name="Quality1">High</string>  
+    <string name="Quality2">Medium</string>  
+    <string name="Quality3">Low</string>  
+    <string name="Qualityprompt">Select the Quality\nof the video</string>
+
+</resources>
